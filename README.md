@@ -111,4 +111,9 @@ java MusicPlayerApp
 Built with ❤️ by Sameer
 
 ---
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute this software with proper attribution. See the [LICENSE](LICENSE) file for full license text.
 
